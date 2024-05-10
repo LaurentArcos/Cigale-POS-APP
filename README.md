@@ -8,6 +8,9 @@ Le projet **Seagale-POS-App** a été développé en utilisant l'API de PrestaSh
 ## À propos de Seagale-POS-App
 **Seagale-POS-App** est une solution point de vente (POS) conçue pour augmenter l'efficacité opérationnelle des magasins de la marque grâce à une interface intuitive et des fonctionnalités avancées. L'application est entièrement responsive, permettant aux vendeurs de l'utiliser sur ordinateurs, smartphones, et tablettes.
 
+## Sécurité et accès
+Outre le code source privé, pour garantir la sécurité et la confidentialité des données, l'accès au résultat final de l'application en ligne est protégé par un système d'authentification par mot de passe. Cette mesure préventive assure que seules les personnes autorisées peuvent accéder à l'application, conformément à nos directives strictes de sécurité. Pour cette raison, aucun lien direct vers l'application en ligne n'est fourni publiquement.
+
 ## Aperçu du projet
 Ci-dessous, vous trouverez des captures d'écran illustrant diverses fonctionnalités de l'application, mettant en lumière l'interface utilisateur conçue pour optimiser l'expérience utilisateur (les vendeurs en boutique).
 
